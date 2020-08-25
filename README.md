@@ -38,9 +38,8 @@ Illustrations made by me:
 ```npm install```
 
 ## UI & Design
-<img src="https://i.ibb.co/BjjWh1y/Fire-Shot-Capture-128-React-App-localhost.png" alt="Covid-19 global statistics">
-
-<img src="https://i.ibb.co/4TZCX0w/Fire-Shot-Capture-131-React-App-localhost.png" alt="Covid-19 country statistics">
+<img src="https://i.ibb.co/njfgbgG/Screenshot-2020-08-25-React-App.png" alt="Screenshot-2020-08-25-React-App">
+<img src="https://i.ibb.co/Fs6q5Fw/Screenshot-2020-08-25-React-App-1.png" alt="Screenshot-2020-08-25-React-App-1">
 
 ## Available Scripts
 
