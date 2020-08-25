@@ -10,7 +10,7 @@ const Cards = ({data: {confirmed, recovered, deaths, lastUpdate}}) => {
     }
     return (
         <div className={styles.container}>
-            <p className={styles.update}>Last update: {new Date(lastUpdate).toDateString()} {new Date(lastUpdate).toTimeString()}</p>
+            <p className={styles.update}>Last update: {new Date(lastUpdate).toDateString()}, {new Date(lastUpdate).toTimeString()}</p>
             <Grid container spacing={3} justify="center">
                 <Grid item component={Card} xs={12} md={3} className={cx(styles.card, styles.infected, styles.cardsize)}>
                     <CardContent className="cardsize">
