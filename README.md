@@ -1,5 +1,47 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Covid-19 Tracker
+
+## Content
+- [Covid-19 Tracker](#covid-19-tracker)
+  - [Content](#content)
+  - [About this project](#about-this-project)
+  - [How to run this project](#how-to-run-this-project)
+  - [UI & Design](#ui--design)
+  - [Available Scripts](#available-scripts)
+    - [`npm start`](#npm-start)
+    - [`npm test`](#npm-test)
+    - [`npm run build`](#npm-run-build)
+    - [`npm run eject`](#npm-run-eject)
+  - [Learn More](#learn-more)
+    - [Code Splitting](#code-splitting)
+    - [Analyzing the Bundle Size](#analyzing-the-bundle-size)
+    - [Making a Progressive Web App](#making-a-progressive-web-app)
+    - [Advanced Configuration](#advanced-configuration)
+    - [Deployment](#deployment)
+    - [`npm run build` fails to minify](#npm-run-build-fails-to-minify)
+
+## About this project
+This is a simple COVID-19 tracker made with react.
+Additional packages, libraries...:
+- Material UI
+- react-chartjs-2
+- react-countup
+
+API: https://covid19.mathdro.id/api
+
+Illustrations made by me:
+- Title in Inkscape
+- Background image in Krita
+
+## How to run this project
+```npm install```
+
+## UI & Design
+<img src="https://i.ibb.co/BjjWh1y/Fire-Shot-Capture-128-React-App-localhost.png" alt="Covid-19 global statistics">
+
+<img src="https://i.ibb.co/4TZCX0w/Fire-Shot-Capture-131-React-App-localhost.png" alt="Covid-19 country statistics">
+
 ## Available Scripts
 
 In the project directory, you can run:
