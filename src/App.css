@@ -2,17 +2,6 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -28,11 +17,47 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+body {
+  background-color: rgb(250, 250, 250);
+  position: relative;
+    z-index: 1;
+}
+
+.bg {
+  background-image: url(./images/map.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: url(./images/map.png) center;
+    opacity: .1;
+}
+
+.container {
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+}
+
+@media (max-width: 770px) {
+  .container {
+    margin: 0 10%;
   }
-  to {
-    transform: rotate(360deg);
+
+  .image {
+    width: 100%;
   }
 }
