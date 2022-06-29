@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Covid-19 Tracker
 
 ## Content
+
 - [Covid-19 Tracker](#covid-19-tracker)
   - [Content](#content)
   - [About this project](#about-this-project)
@@ -22,8 +23,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     - [`npm run build` fails to minify](#npm-run-build-fails-to-minify)
 
 ## About this project
+
 This is a simple COVID-19 tracker made with react.
 Additional packages, libraries...:
+
 - Material UI
 - react-chartjs-2
 - react-countup
@@ -31,15 +34,18 @@ Additional packages, libraries...:
 API: https://covid19.mathdro.id/api
 
 Illustrations made by me:
+
 - Title in Inkscape
 - Background image in Krita
 
 ## How to run this project
-```npm install```
+
+`npm install`
 
 ## UI & Design
-<img src="https://i.ibb.co/njfgbgG/Screenshot-2020-08-25-React-App.png" alt="Screenshot-2020-08-25-React-App">
-<img src="https://i.ibb.co/Fs6q5Fw/Screenshot-2020-08-25-React-App-1.png" alt="Screenshot-2020-08-25-React-App-1">
+
+<img src="images/1.png" alt="Screenshot-2020-08-25-React-App">
+<img src="images/2.png" alt="Screenshot-2020-08-25-React-App-1">
 
 ## Available Scripts
 
